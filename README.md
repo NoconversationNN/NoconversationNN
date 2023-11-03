@@ -5,7 +5,7 @@
 <br>
 <p align="right">
   <a href="https://open.spotify.com/album/77Df1klImSWFeDQh96h626?si=22IrhM8jQJW5dibgszC6GQ"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="steamcommunity.com/id/Noconversation/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="steamcommunity.com/id/Noconversation"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <h5 align="right">🎮 .</h5>
 </p>
 
