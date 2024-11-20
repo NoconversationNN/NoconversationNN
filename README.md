@@ -1,4 +1,3 @@
-![NN](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
 
 ![Profile views](https://komarev.com/ghpvc/?username=NoconversationNN&label=Profile%20views&color=0e75b6&style=flat)
 
