@@ -13,9 +13,7 @@
 
  **<h3 align="center">:-)</h3>**
 
- **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.simpleicons.org/python/3776AB" height="32" alt="Python" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/lua/2C2D72" height="32" alt="Lua" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/typescript/3178C6" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="C#" style="margin-right: 4px"></div>
 
  **<h3 align="left">GitHub Stats</h3>**
 
