@@ -1,23 +1,5 @@
-
 ![Profile views](https://komarev.com/ghpvc/?username=NoconversationNN&label=Profile%20views&color=0e75b6&style=flat)
-
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        NN 
-      </h1>
-    </summary>
-  </ul>
+<div align="center">
+  <h1>⟁ NN</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Connecting+to+192.168.0.1..." alt="Typing SVG" />
 </div>
-
- **<h3 align="center">:-)</h3>**
-
-
-
- **<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=NoconversationNN&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
-
